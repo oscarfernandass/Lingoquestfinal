@@ -1,4 +1,5 @@
 {
   "name": "learner",
-  "displayName": "learner"
+  "displayName": "learner",
+  "plugins": ["@react-native-voice/voice"]
 }
